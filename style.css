@@ -1,0 +1,40 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color:black;
+  color:white;
+}
+#a
+{
+  border: #abb1b1 solid 22px;
+  width: 503px;
+  position:relative;
+  top:18%;
+  left:13%;
+  box-shadow: 21px 4px 2px #deeaea;
+                                                                    font-family: 'LCD', sans-serif;
+                                                                    font-family: 'LCD2', sans-serif;
+                                                                    font-family: 'LCDMono2', sans-serif;
+                                                                    font-family: 'Digitalism', sans-serif;
+                                                                    font-family: 'LCDMono', sans-serif;
+
+  font-size: 79px;
+   padding: 58px;
+  border-radius:65px;
+}
+#date
+{
+  margin-top:22px;
+  position:relative;
+  top:34px;
+  left:87px;
+  padding-left:60px;
+  font-size: 25px;
+}
+#time
+{
+  padding-left:20px;
+  font-size: 65px;
+  
+  
+}
